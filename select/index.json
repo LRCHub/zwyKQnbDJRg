@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "モア・ザン・ア・ウーマン",
+  "base_artist": "Bee Gees",
+  "createdAt": "2026-02-11T13:00:22.469759Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "More Than A Woman",
+      "artist": "The Bee Gees",
+      "has_synced": false,
+      "path": "select/pl_01_More_Than_A_Woman_The_Bee_Gees.txt"
+    }
+  ]
+}
